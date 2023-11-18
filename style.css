@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    border: 2px double #333;
+    height: auto;
+    width: 520px;
+    text-align: center;
+}
+
+.container {
+    margin-top: 23px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    text-align: right;
+    border: 5px solid ;
+    font-size: 34px;
+    width: 456px;
+    height: 65px;
+}
+
+button {
+    font-size: 40px;
+    background: #333;
+    border: 5px solid white;
+    color: white;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator {
+    border: 4px solid white;
+    background-color: #333;
+    padding: 23px;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 28px;
+}
